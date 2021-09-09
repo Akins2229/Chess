@@ -3,7 +3,7 @@ import typing
 from colors import White
 from colors import Black
 
-class King:
+class Knight:
     def __init__(
         self,
         color: typing.Union(White, Black),
@@ -15,4 +15,4 @@ class King:
         self.pos=pos
 
     def __str__(self) -> str:
-        return "King"
+        return "Knight"
