@@ -8,7 +8,6 @@
 
 ## Added Features
 
-- Add Board
 - Add move Validation
 - Add display program
 - Add SVG display program with svg to png conversion
